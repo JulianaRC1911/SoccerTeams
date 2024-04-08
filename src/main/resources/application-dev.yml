@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/equipos_futbol_dev
+    username: usuario_dev
+    password: admin
